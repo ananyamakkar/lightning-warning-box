@@ -175,7 +175,7 @@ Run scripts from the repository root. Each script is seeded, so the printed numb
 
 ## Licence
 
-MIT (add a `LICENSE` file to the repository root).
+MIT
 
 ## Author
 
